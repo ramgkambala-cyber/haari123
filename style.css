@@ -1,0 +1,14 @@
+body
+{background-color:lightblue;
+ text-align:center;
+ font-family:cooper;
+}
+h1
+{color:green;
+   top-margin:50px;
+}
+h2
+{color:pink;}
+p
+{color:yellow;
+ font-size:40px;}
